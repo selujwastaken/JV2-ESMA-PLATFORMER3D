@@ -46,7 +46,7 @@ Gestion de l’intensité de la vélocité de la lévitation : Molette de la sou
 
 # Autres Infos : 
 
-# TV Space Bot
+## TV Space Bot
 
 Le TV Space Bot est généralement inoffensif.
 
@@ -64,7 +64,7 @@ Arrêter le hack fait regagner un peu de public.
 
 Il y a une petite probabilité de lâcher une canette énergisante quand le joueur arrête l’état de hack.
 
-# Canettes énergisantes
+## Canettes énergisantes
 
 Les canettes énergisantes sont ramassées en marchant dessus.
 
